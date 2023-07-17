@@ -21,7 +21,7 @@ jobs:
           aws_secret_key: nIO5dij4BHYNvndP2+xA/e4pBj4qXsVEt8NwOqBw
           application_name: bean-six
           environment_name: Bean-six-env
-          version_label: 4
+          version_label: 7
           existing_bucket_name: elasticbeanstalk-ap-south-1-339385640995
           region: ap-south-1
           deployment_package: deploy.zip
