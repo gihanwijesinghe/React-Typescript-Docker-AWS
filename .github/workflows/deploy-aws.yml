@@ -21,7 +21,7 @@ jobs:
           aws_secret_key: nIO5dij4BHYNvndP2+xA/e4pBj4qXsVEt8NwOqBw
           application_name: bean-eight
           environment_name: Bean-eight-env
-          version_label: 11
+          version_label: 12
           existing_bucket_name: beanbucketnew
           region: ap-south-1
           deployment_package: deploy.zip
