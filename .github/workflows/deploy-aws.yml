@@ -18,10 +18,10 @@ jobs:
         uses: einaregilsson/beanstalk-deploy@v21
         with:
           aws_access_key: AKIAU6BHV5ARXZJYGG2W
-          aws_secret_key: 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
+          aws_secret_key: nIO5dij4BHYNvndP2+xA/e4pBj4qXsVEt8NwOqBwo
           application_name: bean-six
           environment_name: Bean-six-env
-          version_label: 9
+          version_label: 10
           existing_bucket_name: elasticbeanstalk-ap-south-1-339385640995
           region: ap-south-1
           deployment_package: deploy.zip
